@@ -27,7 +27,7 @@
 
   :global(button){
     background-color: black; color: white; border: 2px solid white;
-    cursor: pointer; transition: .5s; width: 30rem; margin: 1rem auto; padding: 2rem; 
+    cursor: pointer; transition: .5s; width: 30rem; max-width: 80vw; margin: 1rem auto; padding: 2rem; 
     font-size: 1rem;
   }
 
